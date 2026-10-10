@@ -54,7 +54,7 @@
         "fast-xml-parser": "^5.10.1",
         "fflate": "^0.8.3",
         "marked": "^18.0.7",
-        "rics": "^0.3.21",
+        "rics": "^0.3.22",
         "sortablejs": "^1.15.7"
     },
     "devDependencies": {
